@@ -2,7 +2,12 @@
 
 * [Introduction](README.md)
 * [Atlas Stream Processing Primer](atlas-stream-processing-primer.md)
+* [(optional) Using the Stockgen data generator](optional-using-the-stockgen-data-generator.md)
 * [Building your first Stream Processor](building-your-first-stream-processor.md)
+* [Window functions](window-functions/README.md)
+  * [Tumbling Windows](window-functions/tumbling-windows.md)
+  * [Hopping Windows](window-functions/hopping-windows.md)
+* [Blocking vs Non-blocking stages](blocking-vs-non-blocking-stages.md)
 * [Performance / Monitoring](performance-monitoring.md)
 * [Securing your deployment](securing-your-deployment.md)
 * [Example Queries](example-queries/README.md)
@@ -10,4 +15,3 @@
   * [From MongoDB to Kafka](example-queries/from-mongodb-to-kafka.md)
   * [Working with Kafka Keys](example-queries/working-with-kafka-keys.md)
   * [Working with Kafka Headers](example-queries/working-with-kafka-headers.md)
-  * [Window functions](example-queries/window-functions.md)
